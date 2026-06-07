@@ -1,0 +1,14 @@
+# Unused source images (kept locally for reference, not deployed)
+aprendiz biblico perfil.png
+combo.png
+foto pag de vendas.png
+produto principal 1.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Vercel
+.vercel
